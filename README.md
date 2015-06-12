@@ -1,6 +1,6 @@
 # Crosscloud project roadmap
 
-## Widgets/components:
+## Widgets / web components:
 
  * [x] login/signup
  * [ ] WebID keychain
