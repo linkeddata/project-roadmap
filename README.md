@@ -3,6 +3,7 @@
 ## Widgets/components:
 
  * [x] login/signup
+ * [ ] WebID keychain
  * [ ] person/group picker (with the option to invite new users)
  * [ ] groups manager (with delegation of admin rights)
  * [ ] contacts manager
