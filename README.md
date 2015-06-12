@@ -2,12 +2,11 @@
 
 ## Widgets/components:
 
-
- * [ ] login/signup
+ * [x] login/signup
  * [ ] person/group picker (with the option to invite new users)
  * [ ] groups manager (with delegation of admin rights)
  * [ ] contacts manager
- * [ ] ACL manager
+ * [x] [partial] ACL manager
 
 Important: allow override of default widget based on user preference.
 
