@@ -27,7 +27,7 @@ Give developers the option to create applications based on data templates.
 ##Servers:
 
 ### [gold](https://github.com/linkeddata/gold)
- * [ ] don’t sniff triples to detect mime types [issue #39](https://github.com/linkeddata/gold/issues/39)
+ * [ ] don’t sniff triples to detect mime types -- [issue #39](https://github.com/linkeddata/gold/issues/39)
  
 ### [ldnode](https://github.com/linkeddata/ldnode)
  * [ ] WebID generator
