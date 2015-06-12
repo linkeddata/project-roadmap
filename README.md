@@ -9,7 +9,9 @@
  * [ ] contacts manager
  * [x] [partial] ACL manager
 
-Important: allow override of default widget based on user preference.
+Important: allow override of default widget based on user preference -- login, keychain and ACL manager need to be trusted.
+
+@@TODO add description for each item, together with estimated time of completion
 
 ##Form builder:
 
