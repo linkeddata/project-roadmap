@@ -4,7 +4,7 @@
 
  * [x] [WebID login](https://github.com/linkeddata/webid-login)
  * [x] [WebID signup](https://github.com/linkeddata/webid-signup)
- * [ ] [WebID keychain](https://github.com/linkeddata/webid-keychain)
+ * [ ] [just started] [WebID keychain](https://github.com/linkeddata/webid-keychain)
  * [ ] person/group picker (with the option to invite new users)
  * [ ] groups manager (with delegation of admin rights)
  * [ ] contacts manager
