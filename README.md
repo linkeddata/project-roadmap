@@ -25,4 +25,7 @@ Give developers the option to create applications based on data templates.
 
 ##Servers:
 
+### [Gold](https://github.com/linkeddata/gold)
  * [ ] don’t sniff triples to detect mime types
+ 
+### [ldnode](https://github.com/linkeddata/ldnode)
