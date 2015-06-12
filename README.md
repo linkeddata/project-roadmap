@@ -8,7 +8,7 @@
  * [ ] person/group picker (with the option to invite new users)
  * [ ] groups manager (with delegation of admin rights)
  * [ ] contacts manager
- * [x] [partial] ACL manager
+ * [ ] ACL manager
 
 Important: allow override of default widget based on user preference -- login, keychain and ACL manager need to be trusted.
 
