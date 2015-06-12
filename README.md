@@ -30,3 +30,6 @@ Give developers the option to create applications based on data templates.
  * [ ] don’t sniff triples to detect mime types
  
 ### [ldnode](https://github.com/linkeddata/ldnode)
+ * [ ] WebID generator
+ * [ ] WebID-TLS authentication tests
+ * [x] ACL tests
